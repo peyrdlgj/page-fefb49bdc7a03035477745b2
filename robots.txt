@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pilotefb.cn/sitemap.xml
